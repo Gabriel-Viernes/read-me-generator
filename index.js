@@ -134,54 +134,52 @@ function getInfo() {
     ]).then((answers) => {
         let chosenLicense = chooseLicense(answers.license)
         fs.writeFileSync('README.md', 
-        `
-            ${chosenLicense.badge}
+`
+${chosenLicense.badge}
 
-            # ${answers.name}
+# ${answers.name}
+
+## Description
+
+${answers.description}
+
+## Table of Contents
+
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [License](#License)
+- [Questions](#Questions)
+
+## Installation
+
+${answers.installation}
+
+## Usage
+
+${answers.usage}
+
+## Contributing
+
+${answers.guildlines}
+
+## Tests
+
+${answers.test}
+
+## License
+
+${chosenLicense.name}
+${chosenLicense.info}
+
+## Questions
+
+[Github](https://github.com/${answers.username})
+Email: ${answers.email}
+Please contact me via either of these methods if you have additional questions about this product
             
-            ## Description
-            
-            ${answers.description}
-            
-            ## Table of Contents
-            
-            - [Installation](#Installation)
-            - [Usage](#Usage)
-            - [Contributing](#Contributing)
-            - [Tests](#Tests)
-            - [License](#License)
-            - [Questions](#Questions)
-            
-            ## Installation
-            
-            ${answers.installation}
-            
-            ## Usage
-            
-            ${answers.usage}
-            
-            ## Contributing
-            
-            ${answers.guildlines}
-            
-            ## Tests
-            
-            ${answers.test}
-            
-            ## License
-            
-            ${chosenLicense.name}
-            ${chosenLicense.info}
-            
-            ## Questions
-            
-            ${answers.username}
-            ${answers.email}
-            
-        `
-        
-        
-        
+`        
         )
     })
     
