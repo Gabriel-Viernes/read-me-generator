@@ -1,11 +1,11 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# README Generator
+# asdf
 
 ## Description
 
-The purpose of this project is to generate a README file based on user input
+asdf
 
 ## Table of Contents
 
@@ -18,19 +18,19 @@ The purpose of this project is to generate a README file based on user input
 
 ## Installation
 
-Simply clone the repository from my Github
+asdf
 
 ## Usage
 
-Run index.js using node in a CLI
+asdf
 
 ## Contributing
 
-This project is not accepting contributions at this time
+asdf
 
 ## Tests
 
-Run index.js using node and answer the questions with placeholder teext
+asdf
 
 ## License
 
@@ -48,6 +48,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ## Questions
 
 [Github](https://github.com/Gabriel-Viernes)
-Email: viernesgabriel@comcast.net
+Email: notAnEmail@email.com
 Please contact me via either of these methods if you have additional questions about this product
             
