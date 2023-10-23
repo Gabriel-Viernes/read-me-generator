@@ -190,7 +190,9 @@ ${chosenLicense.info}
 ## Questions
 
 [Github](https://github.com/${answers.username})
+
 Email: ${answers.email}
+
 Please contact me via either of these methods if you have additional questions about this product
             
 `        
