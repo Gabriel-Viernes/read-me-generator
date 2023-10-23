@@ -5,7 +5,7 @@
 
 ## Description
 
-The purpose of this project is to generate a README file based on user input
+This project generates a README based on user input
 
 ## Table of Contents
 
@@ -18,19 +18,19 @@ The purpose of this project is to generate a README file based on user input
 
 ## Installation
 
-Simply clone the repository from my Github
+To install this project, simply clone it from my github 
 
 ## Usage
 
-Run index.js using node in a CLI
+Run index.js using node
 
 ## Contributing
 
-This project is not accepting contributions at this time
+This project is not currently accepting contributions. Please fork the code if you want to create another version
 
 ## Tests
 
-Run index.js using node and answer the questions with placeholder teext
+Simply run the code and enter placeholder responses
 
 ## License
 
@@ -48,6 +48,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ## Questions
 
 [Github](https://github.com/Gabriel-Viernes)
+
 Email: viernesgabriel@comcast.net
+
 Please contact me via either of these methods if you have additional questions about this product
             
