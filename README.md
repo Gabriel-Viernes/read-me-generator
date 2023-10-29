@@ -7,7 +7,7 @@
 
 This project generates a README based on user input
 
-## Table of Contents
+# Table of Contents
 
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -16,23 +16,23 @@ This project generates a README based on user input
 - [License](#License)
 - [Questions](#Questions)
 
-## Installation
+# Installation
 
-To install this project, simply clone it from my github 
+To install this project, simply clone it from my github
 
-## Usage
+# Usage
 
 Run index.js using node
 
-## Contributing
+# Contributing
 
 This project is not currently accepting contributions. Please fork the code if you want to create another version
 
-## Tests
+# Tests
 
 Simply run the code and enter placeholder responses
 
-## License
+# License
 
 MIT License
 
@@ -45,11 +45,11 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-## Questions
+# Questions
 
 [Github](https://github.com/Gabriel-Viernes)
 
-Email: viernesgabriel@comcast.net
+Email: email@email.com
 
 Please contact me via either of these methods if you have additional questions about this product
             

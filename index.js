@@ -157,7 +157,7 @@ ${chosenLicense.badge}
 
 ${answers.description}
 
-## Table of Contents
+# Table of Contents
 
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -166,28 +166,28 @@ ${answers.description}
 - [License](#License)
 - [Questions](#Questions)
 
-## Installation
+# Installation
 
 ${answers.installation}
 
-## Usage
+# Usage
 
 ${answers.usage}
 
-## Contributing
+# Contributing
 
 ${answers.guildlines}
 
-## Tests
+# Tests
 
 ${answers.test}
 
-## License
+# License
 
 ${chosenLicense.name}
 ${chosenLicense.info}
 
-## Questions
+# Questions
 
 [Github](https://github.com/${answers.username})
 
